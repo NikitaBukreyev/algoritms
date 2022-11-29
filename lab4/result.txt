@@ -1,0 +1,17 @@
+Vertice 0 -> color #1
+Vertice 1 -> color #2
+Vertice 2 -> color #1
+Vertice 3 -> color #1
+Vertice 4 -> color #1
+Vertice 5 -> color #2
+Vertice 6 -> color #3
+Vertice 7 -> color #2
+Vertice 8 -> color #1
+Vertice 9 -> color #1
+Vertice 10 -> color #1
+Vertice 11 -> color #1
+Vertice 12 -> color #1
+Vertice 13 -> color #2
+Vertice 14 -> color #1
+
+Total colores used: 3
